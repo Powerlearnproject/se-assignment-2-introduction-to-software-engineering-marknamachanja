@@ -1,0 +1,155 @@
+1)a)
+Software engineering is the application of sound engineering principles to the development, operation and maintenance of
+Software
+b)
+Software engineering focuses on the entire sdlc while traditional programming primarily focuses on coding and implementation
+Software engineering employees structured methodologies and good practices while traditional programming uses improvised 
+approaches
+Software engineering often involves teamwork and collaboration among various stakeholders but traditional programming can be
+a solitary activity
+Software engineering intergrates rigorous testing and quality assurance processes while traditional programming may not emphasize 
+on these aspects as much
+Software engineering includes comprehensive project management to handle timelines, budgets and resources unlike traditional
+aspects which some may have lacked management practices
+2)
+REQUIREMENT GATHERING
+The scope, objectives and feasibility of a project are defined together with the resources, timeline, risks and budget
+requirements
+Functional and non-functional requirements are gathered from the stakeholders
+DESIGN
+The architecture of the software system is developed including high level and low level design.
+IMPLEMENTATION 
+The design specifications are translated into executable codes using appropriate programming language and tools
+TESTING
+Verify and validate the software to make sure it meets the specified requirements and it is free of defects
+DEPLOYMENT 
+Install and configure the software in the target environment 
+MAINTENANCE 
+Provide ongoing support and updates to the software to fix bugs, improve performance and adapt to changing requirements
+3)a)
+Agile is flexible allowing changes at any stage while waterfall follows a linear and sequential process  with little room
+for iterations once a phase is completed
+Agile involves continuous customer collaboration throughout the process while Waterfall involves customer input only at the 
+beginning(requirements) and the end(delivery)
+Agile involves project phases which overlap and intergrate promoting constant development and testing while Waterfall each phase
+is distinct and and must be completed before moving to the next
+Agile manages risks through regular feedback and iterative testing enabling early detection and resolution of issues while
+waterfall may encounter higher risks due to its late testing phase
+b)
+SCENES WHERE AGILE MAY BE PREFERRED
+Where project requirements are expected to change often
+When the project requires constant stakeholder and customer feedback
+SCENES WHERE WATERFALL MAY BE PREFERRED
+When the project requirements are well defined
+When the project has a fixed budget and timeline
+It is suitable for large scale software systems
+When project phases are highly dependent on the completion of the previous ones
+4)
+Requirement engineering is the process of defining,documenting and maintaining the functional and nonfunctional requirements
+of a software system to ensure it meets its needs and expectations
+5)a)
+Requirement gathering-gathering system requirements from stakeholders
+Requirement analysis -resolve conflicts and prioritize requirements based on shareholder and project constraints
+Requirement specification-documenting of the requirements in a structured format creating a clear requirement specification 
+document
+Requirement validation - Verification of the document to ensure that the that the requirements accurately reflect the
+stakeholders' needs and are achieveable within the project scope
+Requirement management - continuously manage and update requirements throughout the project lifecycle to accomodate new
+changes
+b) 
+Provides a clear understanding of what the project should achieve
+Identifies potentional issues and projects early in the development project
+Ensures stakeholder satisfaction by involving them in the requirement phase and ensure their needs are met in the final product
+Helps create realistic project plans and schedules by defining precise requirements leading to more accurate budget allocation
+and on time delivery
+6)a)
+Modularity in software design is the practice of breaking a system into smaller , self contained and interchangeable modules
+that can be independently developed, modified and tested.
+b)
+Changes made to one module do not affect the others reducing the risk of unintended consequences
+Modular components can be reused in other parts of the project thereby saving time and effort
+Smaller modules are easier to test and debug individually
+Different teams/developers can work concurrenly on different modules hence speeding up development
+Modular systems easily accomodate growth by upgrading or adding new modules without needing to overhaul the whole systems
+7)a)
+Unit testing-Tests individual units or components of the software in isolation
+Integration testing-Tests how different units or components work together
+System testing-Tests the entire software system as a whole
+Acceptance testing-Tests the software against the user requirements and acceptance criteria
+b)
+Testing helps ensure that the software meets specified requirements and funtions correctly
+Testing helps identify defects,bugs and issues early in the development process
+Testing provides feedback for continuous improvement by identifying areas for enhancement
+Testing ensures that the product complies with industry standards and regulations
+Detecting and fixing issues early reduces the cost of reworks and maintenance over the software's lifespan
+8)a)
+Version control systems are software tools that track and manages changes to files and codes, enabling collaboration among 
+multiple developers working on the same project ensuring integrity and history of revisions over time
+b)
+They allow the developers to track changes, collaborate effectively , maintain code integrity ,revert to previous versions if 
+needed  and manage concurrent work on the same codebase thereby enhancing productivity.
+c)
+GIT 
+Allows branching and merging,supports non linear workflows, fast performance and extensive community support
+SUBVERSION(SVN)
+Supports branching and tagging , maintains a centralized repository and tracks file revisions
+MERCURIAL(HG)
+Supports branching and merging, offers efficient handling of binary files,easy to use and learn, suitable for both small and
+large projects
+PERFORCE(HELIX CORE)
+Optimized for handling large binary files, supports branching and merging, offers fine grained access control and is widely
+used in industries like gaming and media
+MICROSOFT TEAMS FOUNDATION VERSION CONTROL(TFVC)
+Supports branching and merging, integrates with visual studio, offers project management and reporting capabilities and is
+widely used in Microsoft centric environments
+9)a)
+Define the project scope, objectives and timelines
+Build and lead cross-functional teams ,foster collaboration and motivate team members
+Maintain regular communication with the stakeholders
+Identify potential risks and develop mitigation strategies to minimize their impact on the project
+Monitor project budgets , allocate resources and track expenditures
+Ensure adherence to quality standards , oversee testing and validation testing
+b)
+Dealing with changing or ambiguous requirements throughout the project lifecycle
+Managing limited resources
+Controlling instances where project requirements expand  beyond initial scope without proper change management
+Addressing technical challenges and intergrating diverse technologies into cohesive solutions
+Navigating team dynamics, communication barriers  and ensuring effective collaboration among diverse teams
+Balancing competing priorities and deadlines to meet project milestones and deliveries on time
+Identifying and mitigating risks as well as managing unexpected issues  that arise during project execution
+10)a)i)
+Software maintenance is the process of updating and improving a software application after its initial deployment to correct faults, 
+improve performance or adapt to changing environment or requirements.
+ii)
+CORRECTIVE MAINTENANCE
+Fixing bugs and defects that are identified during the software's operation
+ADAPTIVE MAINTENANCE
+Modifying the software to adapt to changes in the environment, technology or user requirements
+PERFECTIVE MAINTENANCE
+Improving the software's performance, maintainability, scalability, and usability without changing its functionality
+PREVENTIVE MAINTENANCE
+Taking proactive measures to prevent potential problems or defects from occurring in the software
+EMERGENCY MAINTENANCE
+Addressing unexpected issues or emergencies that arise during the software's operation
+b)
+Ensures that any defects discovered after deployment are promptly corrected
+Improves the software's performance, scalability, and maintainability
+Enhances the software's functionality to meet changing user requirements
+Adapts the software to new technologies, platforms, or environments
+Helps to reduce the total cost of ownership by minimizing the need for rework and reducing downtime
+Addresses emerging security vulnerabilities and threats ensuring data security and user safety 
+Ensure the software meets ongoing regulatory and compliance requirements
+11)a)
+Balancing the need for data collection with respect for user privacy and consent
+Deciding the extent of security measures while considering cost and usability and safety
+Avoiding the use of unlicensed code or software while managing a project
+Designing systems that respect user autonomy and control over their interactions with the software
+Reporting unethical practices or code of conduct within an organization
+b)
+Adhere to the codes of ethics such as those provided by the independently
+Stay informed about the ethical issues ,emerging technologies and best practices 
+Implement robust data protection services that protect user privacy by collecting only the necessary data and ensure it is processed
+securely
+Communicate openly with stakeholders about the capabilities, limitations and potential risks of software products
+Ensure high quality of software through thorough testing , code reviews and adherence  to best practice in software development
+Use only licencsed and third party components and respect intellectual property rights
